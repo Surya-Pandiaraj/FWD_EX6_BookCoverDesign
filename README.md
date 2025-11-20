@@ -247,8 +247,7 @@ body {
 
 ## OUTPUT :
 
-<img width="555" height="804" alt="image" src="https://github.com/user-attachments/assets/98145ad7-3957-4b48-a47e-be8ccae4e910" />
-
+<img width="555" height="804" alt="Screenshot 2025-11-20 113943" src="https://github.com/user-attachments/assets/0803a21b-f412-4a4e-98ce-4119b5793410" />
 
 ## RESULT :
 
